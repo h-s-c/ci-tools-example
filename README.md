@@ -6,7 +6,7 @@
 ###Status
 [![Travis CI](https://img.shields.io/travis/h-s-c/ci-tools-example.svg?label=Travis CI)](https://travis-ci.org/h-s-c/ci-tools-example)  
 [![AppVeyor CI](https://img.shields.io/appveyor/ci/h-s-c/ci-tools-example.svg?label=AppVeyor CI)](https://ci.appveyor.com/project/h-s-c/ci-tools-example)  
-[![Wercker CI](https://img.shields.io/wercker/ci/56ae99f5f95c85c06b0647ff.svg?label=Wercker CI)](https://app.wercker.com/project/bykey/a66602fbf8c8e1c3b187ed6924b545ee)  
+[![Wercker CI](https://img.shields.io/wercker/ci/56cf42bd43defb820305b2ab.svg?label=Wercker CI)](https://app.wercker.com/project/bykey/3ca6ce2f06ba3a54161d532178702151)  
 [![Circle CI](https://img.shields.io/circleci/project/h-s-c/ci-tools-example.svg?label=Circle CI)](https://circleci.com/gh/h-s-c/ci-tools-example)  
 [![Snap CI](https://img.shields.io/snap-ci/h-s-c/ci-tools-example/master.svg?label=Snap CI)](https://snap-ci.com/h-s-c/ci-tools-example/branch/master)  
 [![Magnum CI](https://img.shields.io/magnumci/ci/bebbdf14f8807f4974b10a518b0abf8e.svg?label=Magnum CI)](https://magnum-ci.com/public/7b149ac1a7a5926259de/builds)  

@@ -8,6 +8,7 @@ project (ci-tools-example C)
         add_test(example example)
     endif()
     
+    set_target_properties(example PROPERTIES POSITION_INDEPENDENT_CODE "True")
     if(DEFINED ENV{CI})
         if(DEFINED CI_CC_FLAGS)
             set_target_properties(example PROPERTIES COMPILE_FLAGS "${CI_CC_FLAGS}")

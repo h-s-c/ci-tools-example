@@ -1,7 +1,7 @@
-# CI-Tools example
+# CI-Tools example 
 [![license](https://img.shields.io/github/license/h-s-c/ci-tools-example.svg)](http://unlicense.org/)
 
-###Status
+### Status
 [![Travis CI](https://img.shields.io/travis/h-s-c/ci-tools-example.svg?label=TravisCI)](https://travis-ci.org/h-s-c/ci-tools-example)  
 [![AppVeyor CI](https://img.shields.io/appveyor/ci/h-s-c/ci-tools-example.svg?label=AppVeyorCI)](https://ci.appveyor.com/project/h-s-c/ci-tools-example)  
 [![Wercker CI](https://img.shields.io/wercker/ci/56cf42bd43defb820305b2ab.svg?label=WerckerCI)](https://app.wercker.com/project/bykey/3ca6ce2f06ba3a54161d532178702151)  
